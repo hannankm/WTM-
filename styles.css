@@ -1,0 +1,87 @@
+body{
+    background-image: linear-gradient(180deg,rgb(146, 106, 32), black);
+    background-repeat: no-repeat;
+    text-align: center; 
+    min-height: 100vh;
+    color:white;
+   
+   
+}
+
+form{
+    margin: auto;
+    width: 40%;
+  padding-top: 7%;
+  padding-bottom: 7%;
+
+}
+
+a{
+   color: rgb(161, 106, 4); 
+
+}
+
+#form2{
+    margin: auto;
+    width: 65%;
+  padding-top: 7%;
+  padding-bottom: 7%;
+
+}
+.d{
+    
+
+}
+
+.login{
+    color:white;
+    background-color: black;
+    border-radius: 40%;
+    margin: 6%;
+    padding: 2% 15%;
+
+}
+
+.home{
+    background-color: white;
+    color:black;
+
+}
+
+#header{
+    margin: 3%;
+
+}
+
+.c{
+    background-color: aquamarine;
+
+}
+
+.menu{
+    background-color: gray;
+
+}
+
+.s{
+    background-color:blueviolet;
+
+}
+
+.group{
+    
+
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+
+}
+.back{
+    background-color: white;
+    text-align: left;
+    color: black;
+    margin:0;
+
+}
